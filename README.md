@@ -6,3 +6,4 @@ second feature
 staging
 signed commit
 unsigned commit
+another unsigned commit
